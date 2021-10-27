@@ -3,7 +3,7 @@
 [Deployed React App](https://mevaldovi.github.io/Clouds-React-Weather-App)
 
 <img width="269" alt="React-weather-app" src="<img width="202" alt="clouds-weather-app" src="https://user-images.githubusercontent.com/83307023/139148766-dae0c2db-ae50-4d41-ac29-a877da162c91.PNG">
-">
+
 
 
 ## Description
