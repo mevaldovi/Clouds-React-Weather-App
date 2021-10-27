@@ -2,7 +2,7 @@
 
 [Deployed React App](https://mevaldovi.github.io/Clouds-React-Weather-App)
 
-<img width="269" alt="React-weather-app" src="https://secure.img1-fg.wfcdn.com/im/01261585/resize-h445%5Ecompr-r85/1377/137753768/Cloud+9+33%2527+x+20.5%2522+Wallpaper+Roll.jpg">
+
 
 
 ## Description
