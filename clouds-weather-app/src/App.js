@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./index.css";
+import "./App.css";
 require('dotenv').config();
 
 function App() {
