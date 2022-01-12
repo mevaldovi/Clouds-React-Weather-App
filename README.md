@@ -1,6 +1,6 @@
 # Clouds-React-Weather-App
 
-[Deployed React App](https://mevaldovi.github.io/Clouds-React-Weather-App)
+Deployed React app: [https://mevaldovi.github.io/Clouds-React-Weather-App](https://mevaldovi.github.io/Clouds-React-Weather-App)
 
 
 <img width="202" alt="clouds-weather-app" src="https://user-images.githubusercontent.com/83307023/139149229-33c2821f-df48-437b-8c43-6c57b2345aa8.PNG">
@@ -32,15 +32,22 @@ HTML, CSS, JavaScript, JSX, React, & third-party Web APIs.
 [Agnowledgments](https://github.com/mevaldovi/Clouds-React-Weather-App#Agknowledgments)
 
 # Installation
+
+- Clone this repo
+
+- npm install
+
+- cd client
+
+- npm start
  
-If the link does not work, you can just clone down this repo, open terminal at the client root file ("clouds-weather-app") and type "npm start".
 
 # Usage
 Simply open the application in the link above, and then type in a city name, state, or zipcode to get that location's five day forecast. 
 # License
 None at this time.
 # Contact
-[Github](https://github.com/mevaldovi)
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
