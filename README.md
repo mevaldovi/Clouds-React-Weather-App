@@ -37,7 +37,7 @@ HTML, CSS, JavaScript, JSX, React, & third-party Web APIs.
 
 - npm install
 
-- cd client
+- cd clouds-weather-app
 
 - npm start
  
