@@ -33,13 +33,15 @@ HTML, CSS, JavaScript, JSX, React, & third-party Web APIs.
 
 # Installation
 
-- Clone this repo
+Bold text indicates commands in the terminal; italicized text indicates steps to take
 
-- npm install
+- _Clone this repo_
 
-- cd clouds-weather-app
+- **npm install**
 
-- npm start
+- **cd clouds-weather-app**
+
+- **npm start**
  
 
 # Usage
