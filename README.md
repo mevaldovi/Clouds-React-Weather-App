@@ -12,8 +12,9 @@ An easy-to-navigate same-day weather forecast application using ReactJS.
 ## Technology 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/document)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://devdocs.io/css)
-[<img align="left" alt="medium" src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](https://reactjs.org/docs/getting-started.html)
 
+`===============`
 
 # Table of Contents
 [Description](https://github.com/mevaldovi/Clouds-React-Weather-App#Description)
