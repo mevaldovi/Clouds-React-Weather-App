@@ -33,15 +33,14 @@ HTML, CSS, JavaScript, JSX, React, & third-party Web APIs.
 
 # Installation
 
-Bold text indicates commands in the terminal; italicized text indicates steps to take
 
 - _Clone this repo_
 
-- **npm install**
+- `npm install`
 
-- **cd clouds-weather-app**
+- `cd clouds-weather-app`
 
-- **npm start**
+- `npm start`
  
 
 # Usage
@@ -50,6 +49,8 @@ Simply open the application in the link above, and then type in a city name, sta
 None at this time.
 # Contact
 Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
+
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
